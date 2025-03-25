@@ -4,9 +4,9 @@ compatibility_date = "2025-03-10"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "qrcode_hub"
+database_name = "wechat_qrcode"
 # 注意：将下面的 id 替换为你自己拷贝的 D1 存储的 id 才能正常使用！
-database_id = "3eacb2ca-7081-46e6-952a-9f0f1178c676"
+database_id = "d25e2777-316c-45b6-8926-d55907faeb1a"
 
 [triggers]
 crons = ["0 2 */1 * *"]
